@@ -1,0 +1,4 @@
+- Windows Server 2022
+- 4 virtual disks (50GB each)
+- Hyper-V / VirtualBox
+- Storage Spaces configured via PowerShell
